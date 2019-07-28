@@ -1,4 +1,4 @@
-# {DELANI PROJECT}
+# {Delani-studio PROJECT}
 #### By **{Anitha umuhire}**
 ## Description
 delani project is a project that is all about a fiction studio it has several sections where by it welcomes,and presents what it deals with
@@ -13,7 +13,7 @@ My project used HTML,CSS,bootstrap and javascript languages.
 If you encount any problem please let me know.below is my email
 E-mail:anithaumuhire@gmail.com
 
-### 
+### https://github.com/Anitha987/Delani-studio-project.git
 ### licence
 MIT License
 
