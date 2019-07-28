@@ -24,3 +24,5 @@ $(document).ready(function(){
       $("#product").show();
      });
 });
+var messagge;
+alert("thanks for reaching out to us!")
