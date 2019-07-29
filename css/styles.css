@@ -1,6 +1,36 @@
-.Container{
+.Contain{
     background-image: url("../image/h_img.jpg ");
     background-repeat: no-repeat;
     background-size: cover;
     height:800px;
+}
+.blandine{
+    background-image: url("../image/s_image.jpg ");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+}
+.ronah{
+    background-image: url("../image/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+}
+.row{
+    height: 250px;
+}
+.port{
+    height: 650px;
+}
+.what{
+    height:450px
+}
+.costa{
+    margin-top:5%;
+
+}
+::placeholder{
+    color:white;
+    font-size: 20px;
+    margin-left:10%
 }
