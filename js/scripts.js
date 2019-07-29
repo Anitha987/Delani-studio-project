@@ -24,24 +24,10 @@ $(document).ready(function(){
        $("#product").show();
      });
 });
-// $(document).ready(function(){
-//     $("#row").click(function(){
-//        alert("thanks")
-//     });
-// });
-
-
-
-
-//  $(document).ready(function(){ 
-//     $("#row_image/work4.jpg").hover(
-//       function(){
-//         $(this).next().css("visibility","visible");
-//        }, function(){
-//         $(this).next().css("visibility","hidden");
-//        }
-
-//     );
-
-var message=$("input #submit_button").value()
-alert("thanks")
+ $(document).ready(function(){
+    $("#submit_button").click(function(){
+        alert("Thanks for reaching out to us!")
+     });
+ });
+// var message=$("input #submit_button").value()
+// alert("Thanks for reaching out to us!")
