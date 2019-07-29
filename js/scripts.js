@@ -25,6 +25,7 @@ $(document).ready(function(){
      });
 });
  $(document).ready(function(){
+    
     $("#submit_button").click(function(){
         alert("Thanks for reaching out to us!")
      });
