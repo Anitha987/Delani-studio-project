@@ -16,8 +16,8 @@ $(document).ready(function(){
         $("#develop").show();
     });
     $("#product").click(function(){
-        $("#anitha").hide();
-        $("#product").show();
+        $("#product").hide();
+        $("#anitha").show();
     });
     $("#anitha").click(function(){
        $("#anitha").hide();
